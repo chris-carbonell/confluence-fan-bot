@@ -1,0 +1,11 @@
+{
+  "request_base": "https://company.atlassian.net",
+  "target_page_id": "1234567890",
+  "praise_limit": 20,
+  "praises": [
+    "This is awesome.",
+    "I concur.",
+    "Solid work here!",
+    "This is exactly what I needed. Thanks!"
+  ]
+}
